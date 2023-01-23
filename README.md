@@ -2,6 +2,10 @@
 
 Created using React JS and the API from https://pokeapi.co/
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105982460/214020960-34dcb015-420b-497b-ab64-0c0a06bc41be.png">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
